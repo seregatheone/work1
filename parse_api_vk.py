@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup as BS
 
 filename = input("Название файла : ")
 path = "result/" + filename + ".csv"
-token = 'dcc6e61edcc6e61edcc6e61e54dcb5c83dddcc6dcc6e61e83dc38c74da087ddea748480'
+token = '***'
 version = '5.120'
 domain = "yvkurse"
 HEADERS = {
